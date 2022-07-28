@@ -1,0 +1,21 @@
+.container{
+    border: 5px solid black;
+}
+.row{
+    border: 3px solid violet;
+}
+.col{
+    border: 2px solid green;
+}
+.pinky{
+    background-color:pink;
+}
+.bluish{
+    background-color: blue;
+}
+.redish{
+    background-color: red;
+}
+.yellowish{
+    background-color: yellow;
+}

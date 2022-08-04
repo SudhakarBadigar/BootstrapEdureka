@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML="this is dynamic paragraph in js";

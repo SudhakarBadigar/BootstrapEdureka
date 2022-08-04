@@ -1,0 +1,38 @@
+var general;
+console.log(general);
+var general=6;
+console.log(general);
+console.log(typeof (general));
+general="sud";
+console.log(typeof (general));
+general='';
+console.log(typeof general);
+general=true;
+console.log(typeof general);
+general=null;
+console.log(typeof general);
+general=[3,4,5,6,7];
+console.log(typeof general);
+console.log(general.length);
+console.log("...................................... ");
+console.log(2+5);
+console.log("hi" + " there");
+console.log("hi " + 1234);
+console.log(typeof ("hi " + 1234));
+console.log("...........................................");
+var num1=5;
+num2=num1+5;
+num3 = num2 +"raj";
+console.log(typeof num1);
+console.log(typeof num2);
+console.log(typeof num3);
+console.log("................................");
+var num4 = prompt("enter the value");
+alert("go to inspect and check out in console");
+console.log(num4);
+console.log(typeof num4);
+console.log(typeof (num4+8));
+console.log(parseInt(num4) + 8);
+console.log(typeof parseInt(num4));
+
+
